@@ -1,0 +1,4 @@
+# Ignore the .pm2 directory and its contents
+storage/.pm2/
+storage/getway/
+storage/gateway.sock
