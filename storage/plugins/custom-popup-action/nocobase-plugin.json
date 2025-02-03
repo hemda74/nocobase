@@ -1,0 +1,6 @@
+{
+	"name": "custom-popup-action",
+	"version": "0.1.0",
+	"description": "A custom plugin to show popup messages in workflows",
+	"main": "src/server/index.js"
+}
