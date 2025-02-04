@@ -3,3 +3,4 @@ storage/.pm2/
 storage/getway/
 storage/gateway.sock
 nocobase\storage\plugins\custom-popup-action\node_modules
+node_modules

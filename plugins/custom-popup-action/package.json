@@ -1,0 +1,9 @@
+{
+	"name": "custom-popup-action",
+	"version": "0.1.0",
+	"main": "src/server/index.js",
+	"dependencies": {
+		"@nocobase/server": "^3.3.0",
+		"react": "^17.0.2"
+	}
+}

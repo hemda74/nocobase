@@ -9,6 +9,11 @@
             "date": 1738602746259,
             "name": "/app/nocobase/storage/logs/main/system_2025-02-03.log",
             "hash": "6453f0415c20e386ac300bba8454375a94de2fd2116de80add33a61df0799796"
+        },
+        {
+            "date": 1738689485921,
+            "name": "/app/nocobase/storage/logs/main/system_2025-02-04.log",
+            "hash": "3d90601b9aa45ff06ff9614e2f3710999e3b471bd456995d2a852d9b06016235"
         }
     ],
     "hashType": "sha256"

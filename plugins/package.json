@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@nocobase/server": "^1.4.34"
+  }
+}

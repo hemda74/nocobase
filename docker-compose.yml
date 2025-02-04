@@ -3,7 +3,7 @@ version: '3.3'
 services:
         app:
                 image: nocobase/nocobase:main
-                container_name: nocobase
+                container_name: nocobase2
                 depends_on:
                         - postgres
                 environment:
@@ -15,9 +15,9 @@ services:
                         - LOCAL_STORAGE_BASE_URL=/storage/uploads
                 volumes:
                         - ./storage:/app/nocobase/storage
-                        - ./plugins/custom-popup-action:/app/nocobase/plugins/custom-popup-action
+                        - ./storage/plugins:/app/nocobase/plugins
                 ports:
-                        - '8200:80'
+                        - '8300:80'
                 restart: unless-stopped
 
         postgres:
