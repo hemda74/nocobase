@@ -1,0 +1,3 @@
+{"level":"info","message":"add app main into supervisor","meta":{},"module":"application","submodule":"supervisor","method":"addApp","app":"main","reqId":"19c6d47b-b7f3-4a5a-9cef-27da9a623065","dataSourceKey":"main","timestamp":"2025-02-05 00:02:28"}
+{"level":"info","message":"connection has been established successfully.","meta":{},"module":"database","submodule":"","method":"auth","app":"main","reqId":"19c6d47b-b7f3-4a5a-9cef-27da9a623065","dataSourceKey":"main","timestamp":"2025-02-05 00:02:28"}
+{"level":"info","message":"upgrading...","meta":{},"module":"application","submodule":"","method":"","app":"main","reqId":"19c6d47b-b7f3-4a5a-9cef-27da9a623065","dataSourceKey":"main","timestamp":"2025-02-05 00:02:28"}

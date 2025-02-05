@@ -14,6 +14,11 @@
             "date": 1738689485964,
             "name": "/app/nocobase/storage/logs/main/system_error_2025-02-04.log",
             "hash": "733fbff3944add6f528137c4a452c9abed1948b0a510bb20020116f2a2839208"
+        },
+        {
+            "date": 1738713747867,
+            "name": "/app/nocobase/storage/logs/main/system_error_2025-02-05.log",
+            "hash": "2bd73c615afa8c6482b52e6ae1a5c3c3654a7efb39ab41189214aff9c8c2d8e3"
         }
     ],
     "hashType": "sha256"
